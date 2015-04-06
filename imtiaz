@@ -1,0 +1,2 @@
+Test is located in class EspnNflTests. 
+To run test execute the following command: mvn clean test -Dtest=test.EspnNflTests* after opening project.
